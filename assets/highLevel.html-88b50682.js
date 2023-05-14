@@ -1,0 +1,1 @@
+import{_ as t,X as a,Y as c,Z as e,$ as r}from"./framework-ed357a39.js";const s={},o=e("h2",{id:"高级",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#高级","aria-hidden":"true"},"#"),r(" 高级")],-1),n=[o];function _(h,d){return a(),c("div",null,n)}const l=t(s,[["render",_],["__file","highLevel.html.vue"]]);export{l as default};

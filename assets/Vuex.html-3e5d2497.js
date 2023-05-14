@@ -1,0 +1,1 @@
+import{_ as t,X as a,Y as s,Z as e,$ as c}from"./framework-ed357a39.js";const o={},n=e("h2",{id:"介绍",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#介绍","aria-hidden":"true"},"#"),c(" 介绍")],-1),r=e("p",null,"vuex",-1),_=[n,r];function d(i,l){return a(),s("div",null,_)}const u=t(o,[["render",d],["__file","Vuex.html.vue"]]);export{u as default};
